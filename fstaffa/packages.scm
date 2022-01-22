@@ -7,7 +7,7 @@
 (define-public stskeygen
   (package
    (name "stskeygen")
-   (version "2.2.4")
+   (version "2.2.6")
    (source
     (origin
      (method url-fetch/tarbomb)
@@ -22,5 +22,5 @@
       `(("stskeygen" "bin/"))))
    (synopsis "Stskeygen")
    (description "Stskeygen")
-   (home-page "https://www.gnu.org/software/hello/")
+   (home-page "https://support.cimpress.cloud/hc/en-us/articles/360049195674-stskeygen")
    (license asl2.0)))
