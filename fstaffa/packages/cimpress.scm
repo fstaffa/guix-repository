@@ -14,7 +14,7 @@
      (file-name "stskeygen")
      (uri (string-append "https://ce-installation-binaries.s3.amazonaws.com/stskeygen/" version "/stskeygen_" version "_Linux_x86_64.tar.gz"))
      (sha256
-      (base32 "11dq4hqrv5kl0dwmgrkhxj0x9crnm9zqv2ynv9cxawmbr2h6gjvk"))))
+      (base32 "0ws1dlv6r7dxzmwxzj5zlscfzjvpvg84aqpqfn14zybhmpd4pkdd"))))
 
    (build-system copy-build-system)
    (arguments
